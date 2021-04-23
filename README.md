@@ -7,7 +7,13 @@ The purpose of this analysis was to determine the number of retiring employees p
 - The title with the most employees retiring is Senior Staff with 28,254 and Senior Engineer with 29,414.
 - The title with the least employees reitiring is Manager with 2.
 https://github.com/skylarblack96/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibility.csv
+
 - The title that has the most eligible employees for mentorship is Senior Staff with 568.
 - The title that has the least eligible employees for mentorship is Technique Leader with 76 and Assitant Engineer with 78.
 
 ## Summary
+Overall there are 90,398 roles that need to be filled as these employees retire and 1,549 employees eligible for mentorship. There are enough qualified, retirement-ready employees to mentor the next generation of Pewlett Hackard employees. There are many roles that need to be filled and so few eligible for mentorship. 
+### Additional Tables
+The first table breaks down how many employees are eligible for mentorship by title
+
+
