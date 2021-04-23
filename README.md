@@ -18,6 +18,6 @@ An additional table was created to visualize how many employees were eligible fo
 https://github.com/skylarblack96/Pewlett_Hackard_Analysis/blob/main/Data/title_count.csv
 
 I wanted to see how many employees were retiring from each department and what their title was. I had to create two tables to obtain this information. The first one I selected emp_no, first name, last name, title, and department name and joined on the departments, employees, and unique titles tables. I then created one final table and selected a count on department name, department name, and title and grouped by department name and title and ordered by department name. In this final table it is easy to see how many employees are retiring with a certain title from a certain department.
-
+https://github.com/skylarblack96/Pewlett_Hackard_Analysis/blob/main/Data/retire_count_by_dept_title.csv
 
 
