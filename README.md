@@ -15,7 +15,7 @@ https://github.com/skylarblack96/Pewlett_Hackard_Analysis/blob/main/Data/mentors
 Overall there are 90,398 roles that need to be filled as these employees retire and 1,549 employees eligible for mentorship. There are enough qualified, retirement-ready employees to mentor the next generation of Pewlett Hackard employees. There are many roles that need to be filled and so few eligible for mentorship. 
 ### Additional Tables
 An additional table was created to visualize how many employees were eligible for mentorship by title so we could see if there would be enough retiring employees to help mentor. 
-
+https://github.com/skylarblack96/Pewlett_Hackard_Analysis/blob/main/Data/title_count.csv
 
 I wanted to see how many employees were retiring from each department and what their title was. I had to create two tables to obtain this information. The first one I selected emp_no, first name, last name, title, and department name and joined on the departments, employees, and unique titles tables. I then created one final table and selected a count on department name, department name, and title and grouped by department name and title and ordered by department name. In this final table it is easy to see how many employees are retiring with a certain title from a certain department.
 
